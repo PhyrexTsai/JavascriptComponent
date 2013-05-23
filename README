@@ -1,5 +1,8 @@
 For Javascript Component
 
-使用範例：
-Before/After/Override 用法：http://jsfiddle.net/dHgv5/
+1. $.control 使用範例：
+    Before/After/Override 用法：http://jsfiddle.net/dHgv5/
+
+2. 將 javascript widget 封裝成 function (fn)
+    使用方法：http://jsfiddle.net/52aS9/
 
